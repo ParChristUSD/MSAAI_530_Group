@@ -53,7 +53,7 @@ The accuracy scores from these analyses are compiled into tables for both random
 
 This analysis not only highlights the significance of individual and grouped predictors in occupancy-related predictions but also showcases the importance of considering the sequential nature of data in predictive modeling.
 
-## `LTSM NN JuPyter Notebook`
+## `LSTM NN JuPyter Notebook`
 
 ### Data Preprocessing and Feature Extraction
 - A new feature, `Temp_Hum_Ratio`, is created to capture the relationship between temperature and humidity.
