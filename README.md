@@ -6,6 +6,10 @@
 ## Prof. A. Marburt
 ### 2024-02-26
 
+
+![image](https://github.com/ParChristUSD/MSAAI_530_Group/assets/146489811/3ec1be9b-3bc2-498a-8e7a-077e2919bcd4)
+
+
 ### [Link to Data set](https://www.kaggle.com/datasets/kukuroo3/room-occupancy-detection-data-iot-sensor/data)
 
 
