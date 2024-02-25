@@ -6,6 +6,8 @@
 ## Prof. A. Marburt
 ### 2024-02-26
 
+### [Link to Data set](https://www.kaggle.com/datasets/kukuroo3/room-occupancy-detection-data-iot-sensor/data)
+
 
 ## `EDA Group 2 JuPyter Notebook`
 
