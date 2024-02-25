@@ -77,7 +77,7 @@ Each model is compiled and trained with the Adam optimizer, and their performanc
 This analysis demonstrates the effectiveness of neural networks in predicting occupancy status from environmental and temporal data. The exploration of different model architectures and optimizers highlights the importance of model tuning in achieving high accuracy.
 
 
-## `IoT Device PDF`
+## `IoT Device PNG`
 - This is the group drawing for our IoT device all of the components are clearly labled with a number, and their functions are listed within the Final Paper.
   
 - The file, also contains a outline of the device pipeline, which is also clearly labled, and explained in greater detail within the Final Paper. 
